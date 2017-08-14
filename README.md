@@ -1,4 +1,4 @@
-# Weather Forcast
+# Weather Forecast
 
 A simple Nigeria cities weather forcast web app built with reactjs and redux.
 
