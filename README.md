@@ -1,6 +1,6 @@
 # Weather Forecast
 
-A simple Nigeria cities weather forcast web app built with reactjs and redux.
+A simple Nigeria cities weather forecast web app built with reactjs and redux.
 
 ### Getting Started
 
