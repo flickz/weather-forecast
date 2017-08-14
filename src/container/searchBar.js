@@ -28,7 +28,7 @@ class SearchBar extends Component{
                     placeholder='Get a five day forcast of your favorite city'
                 />
                 <span className='input-group-btn'>
-                    <button type='submit' className='btn btn-secondary'>Submit</button>
+                    <button type='submit' className='btn btn-secondary'>Add City</button>
                 </span>                    
             </form>
         );
